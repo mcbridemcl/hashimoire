@@ -1,0 +1,9 @@
+Setting up your FTK Imager flash drive
+First of all we need a flash drive on which we can set up the FTK Imager tool and a Windows machine where we can initially install the imagining tool. Once we have all the devices we need, we can follow the set-up procedure:
+
+On a machine other than the system we want to image, we need to install FTK Imager.
+After the installation of the tool is complete, connect the flash drive we want to use into the system.
+Copy the entire "FTK Imager" installation folder (default installation folder is in C:Program FilesAccessDataFTK Imager or C:Program Files (x86)AccessDataFTK Imager) to the usb device.
+For the 64-bit versions of FTK Imager (version 3.4.3 and higher), we need to copy extra files to run, more precisely any Microsoft Foundation Class (MFC) files.
+The MFC files needed are all mfc100*, mfc110*, mfc120* and mfc140* files found in the C:WindowsSystem32 folder.
+Copy these files to the folder on the flash device where the FTK Imager executable is located, oor to the root of the removable device.
