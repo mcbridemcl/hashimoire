@@ -48,6 +48,7 @@ Most pages include quick tags near the top:
 - [Disclaimer](#disclaimer)
 
 ## Repo structure
+```text
 /
 ├─ docs/
 │  ├─ tools/
@@ -79,6 +80,6 @@ Most pages include quick tags near the top:
 │  ├─ case-notes-template.md
 │  ├─ chain-of-custody-template.md
 │  └─ ...
-└─ scripts/                (optional, only if/when added)
+└─ scripts/
    ├─ windows/
    └─ linux/
