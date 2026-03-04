@@ -83,3 +83,8 @@ Most pages include quick tags near the top:
 └─ scripts/
    ├─ windows/
    └─ linux/
+
+```
+## Disclaimer
+
+This content is provided for authorized, legal, and ethical defensive use only. You are responsible for complying with your organization’s policies and all applicable laws. Always verify scope and permissions before collecting data or running commands.
